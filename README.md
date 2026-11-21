@@ -1,54 +1,54 @@
-<!-- GitHub Profile README | Replace YOUR_GITHUB_USERNAME in the contribution snake image URLs below. -->
-
 <div align="center">
 
-<img width="100%" alt="Hccc - Robotics, Embedded Systems and Reinforcement Learning" src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0:0F172A,50:1D4ED8,100:38BDF8&amp;text=Hccc&amp;fontColor=FFFFFF&amp;fontSize=58&amp;fontAlignY=40&amp;desc=Robotics%20%7C%20Embedded%20Systems%20%7C%20Reinforcement%20Learning&amp;descSize=17&amp;descAlignY=63&amp;animation=fadeIn" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hccc!;Robotics+%26+Embedded+Systems;Learning+Reinforcement+Learning)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3200&pause=1100&color=3B82F6&center=true&vCenter=true&width=680&height=52&lines=Robot+Motion+Control;Embedded+Development+with+C%2FC%2B%2B+and+Linux;Learning+PPO%2C+Isaac+Lab+and+Sim2Real)](https://github.com/DenverCoder1/readme-typing-svg)
-
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-Motion_Control-blue?style=for-the-badge)
+![Embedded](https://img.shields.io/badge/Embedded-C%2FC%2B%2B-orange?style=for-the-badge)
+![RL](https://img.shields.io/badge/AI-Reinforcement_Learning-purple?style=for-the-badge)
 
 </div>
 
 ## 👋 About Me
 
-I'm an undergraduate student majoring in **Robotics Engineering**, with a focus on **robot motion control, embedded software development, and reinforcement learning**.
+I'm a Robotics Engineering undergraduate interested in **robot motion control, embedded software development, and reinforcement learning**.
 
-I'm currently interning at a robotics company, where I contribute to robot control software, reinforcement-learning policy deployment, and testing on physical robots. I'm also learning how to train robot policies with **Isaac Lab**.
-
-## 📌 At a Glance
+I'm currently interning at a robotics company, working on robot control systems, reinforcement learning policy deployment, and hardware testing. I'm also learning to train robot policies with Isaac Lab.
 
 - 🎓 **Major:** Robotics Engineering
-- 💻 **Technical interests:** C/C++, embedded development, Linux, and robot motion control
-- 🤖 **Internship:** Wheeled-legged robot control software, including SoC/MCU communication, control-state management, and ONNX policy deployment
-- 🧠 **Currently learning:** PPO, Isaac Lab, MuJoCo, and Sim2Real for robotics
+- 💻 **Technical interests:** C/C++, embedded development, Linux, and motion control
+- 🤖 **Internship:** Wheeled-legged robot control, SoC/MCU communication, control-state management, and ONNX policy deployment
+- 🧠 **Currently learning:** PPO, Isaac Lab, MuJoCo, and Sim2Real
 - 🏆 **Competitions:**
-  - **National First Prize (5th nationwide)** — National Undergraduate Intelligent Car Competition, Full Model Category
-  - **National Second Prize (2025)** — National Undergraduate Electronic Design Contest
+  - National First Prize (5th place nationwide), National Undergraduate Intelligent Car Competition — Full Model Category
+  - National Second Prize, 2025 National Undergraduate Electronics Design Contest (NUEDC)
 
-## 🐍 GitHub Contributions
+## 🚀 Technical Skills
 
-<!--
-SETUP REQUIRED:
-1. Replace YOUR_GITHUB_USERNAME in all three URLs below with your actual GitHub login.
-2. Upload .github/workflows/snake.yml into your GitHub profile repository.
-3. Go to Actions > Generate Contribution Snake > Run workflow once.
-4. The image will appear after the workflow creates the output branch.
-Until the Action has run, the image below will not be available.
--->
+### 💻 Programming & Embedded
 
-<div align="center">
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-</picture>
+### 🤖 Robotics & AI
 
-</div>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Isaac Lab](https://img.shields.io/badge/Isaac_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-0094FF?style=flat-square)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 
-<img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1D4ED8,100:38BDF8&amp;height=100&amp;section=footer" />
+## 📂 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| Wheeled-Legged Robot | SoC/MCU control, state management, and ONNX policy deployment |
+| Self-Balancing Bicycle | Cascade PID control and embedded software development |
+| Intelligent Car Competition | Motion control algorithms and real-world testing |
+
+## 📚 Currently Learning
+
+- **Reinforcement learning:** PPO, Actor-Critic, and reward design
+- **Robot simulation:** Isaac Lab and MuJoCo
+- **Robot control:** Finite-state machines and Sim2Real deployment
