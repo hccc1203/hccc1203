@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hccc!;Robotics+%26+Embedded+Systems;Learning+Reinforcement+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hccc!;Robotics+%26+Embedded+Systems;Learning+Reinforcement)](https://git.io/typing-svg)
 
 ![Robotics](https://img.shields.io/badge/Robotics-Motion_Control-blue?style=for-the-badge)
 ![Embedded](https://img.shields.io/badge/Embedded-C%2FC%2B%2B-orange?style=for-the-badge)
