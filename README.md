@@ -24,3 +24,23 @@ I'm currently interning at a robotics company, where I contribute to robot contr
   - **National First Prize (5th nationwide)** — National Undergraduate Intelligent Car Competition, Full Model Category
   - **National Second Prize (2025)** — National Undergraduate Electronic Design Contest
 
+<details>
+<summary>🇨🇳 中文简介 / Chinese Version</summary>
+
+## 👋 关于我
+
+我是一名**机器人工程专业本科生**，主要关注**机器人运动控制、嵌入式软件开发和强化学习**。
+
+目前在一家机器人公司实习，参与机器人控制软件开发、强化学习策略部署以及实机调试与测试。同时，正在学习基于 **Isaac Lab** 的机器人强化学习策略训练。
+
+## 📌 个人概况
+
+- 🎓 **专业方向：** 机器人工程
+- 💻 **技术兴趣：** C/C++、嵌入式开发、Linux、机器人运动控制
+- 🤖 **实习经历：** 轮腿机器人控制软件开发，包括 SoC/MCU 通信、控制状态管理及 ONNX 策略部署
+- 🧠 **正在学习：** PPO、Isaac Lab、MuJoCo、Sim2Real
+- 🏆 **竞赛荣誉：**
+  - 全国大学生智能汽车竞赛完全模型组 — **全国一等奖（全国第五名）**
+  - 2025 年全国大学生电子设计竞赛 — **全国二等奖**
+
+</details>
