@@ -19,7 +19,6 @@ I'm currently interning at a robotics company, where I contribute to robot contr
 - 🎓 **Major:** Robotics Engineering
 - 💻 **Technical interests:** C/C++, embedded development, Linux, and robot motion control
 - 🤖 **Internship:** Wheeled-legged robot control software, including SoC/MCU communication, control-state management, and ONNX policy deployment
-- 🧠 **Currently learning:** PPO, Isaac Lab, MuJoCo, and Sim2Real for robotics
 - 🏆 **Competitions:**
   - **National First Prize (5th nationwide)** — National Undergraduate Intelligent Car Competition, Full Model Category
   - **National Second Prize (2025)** — National Undergraduate Electronic Design Contest
@@ -38,7 +37,6 @@ I'm currently interning at a robotics company, where I contribute to robot contr
 - 🎓 **专业方向：** 机器人工程
 - 💻 **技术兴趣：** C/C++、嵌入式开发、Linux、机器人运动控制
 - 🤖 **实习经历：** 轮腿机器人控制软件开发，包括 SoC/MCU 通信、控制状态管理及 ONNX 策略部署
-- 🧠 **正在学习：** PPO、Isaac Lab、MuJoCo、Sim2Real
 - 🏆 **竞赛荣誉：**
   - 全国大学生智能汽车竞赛完全模型组 — **全国一等奖（全国第五名）**
   - 2025 年全国大学生电子设计竞赛 — **全国二等奖**
